@@ -21,6 +21,21 @@ If a link doesn't work all subjects are saved in folders of this repository.
 - [Malloc]()
 - [ft_script]()
 - [Nm-otool]()
+- LibftASM
+- Root-me | App-Systeme
+- Root-me | Cracking
+- Snow Crash
+- RainFall
+- strace
+- GBmu
+- ft_linux
+- little-penguin-1
+- Process and Memory
+- Drivers and Interrupts
+- Filesystem
+- KFS-1
+- KFS-2
+- KFS-3
 
 ### Algorithmic branch
 - [Ft_printf]()
@@ -103,7 +118,7 @@ If a link doesn't work all subjects are saved in folders of this repository.
 - [Factrace]()
 - [Hotrace]()
 - [Introduction to iOS]()
-- [[Introduction to Wordpress]()
+- [Introduction to Wordpress]()
 - [LLDB]()
 - [Mexican Standoff]()
 - [Puissance 4]()
