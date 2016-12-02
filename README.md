@@ -5,11 +5,11 @@ If a link doesn't work all subjects are saved in folders of this repository.
 ## Projects
 
 ### Global
-- [42 Commandements](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/00_Global/42_commandements.pdf)
-- [Piscine Reloaded](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/00_Global/piscine_reloaded.pdf)
-- [Libft](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/00_Global/libft.pdf)
-- [Fillit](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/00_Global/fillit.pdf)
-- [Get Next Line](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/00_Global/get_next_line.pdf)
+- [42 Commandements](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/00_Global/42_commandements.pdf)
+- [Piscine Reloaded](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/00_Global/piscine_reloaded.pdf)
+- [Libft](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/00_Global/libft.pdf)
+- [Fillit](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/00_Global/fillit.pdf)
+- [Get Next Line](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/00_Global/get_next_line.pdf)
 
 ### Unix branch
 - [Ft_ls](https://github.com/BenjaminSouchet/)
@@ -47,64 +47,64 @@ If a link doesn't work all subjects are saved in folders of this repository.
 - [ft_nmap](https://github.com/BenjaminSouchet/)
 
 ### Algorithmic branch
-- [Ft_printf](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/ft_printf.pdf)
-- [Push Swap](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/push_swap.pdf)
-- [Filler](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/filler.pdf)
-- [Lem_in](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/lem-in.pdf)
-- [Mod1 (Optional Project)](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/mod1.pdf)
-- [Corewar](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/corewar.pdf)
-- [Corewar Championship (Optional Project)](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/corewar-championship.pdf)
-- [ComputorV1](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/computorv1.pdf)
-- [Expert System](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/expertsystem.pdf)
-- [N-puzzle](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/npuzzle.pdf)
-- [Ft_linear_regression](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/ft_linear_regression.pdf)
-- [Rubik](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/rubik.pdf)
-- [KrpSim](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/krpsim.pdf)
-- [Gomoku](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/02_Algorithmic/gomoku.pdf)
+- [Ft_printf](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/ft_printf.pdf)
+- [Push Swap](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/push_swap.pdf)
+- [Filler](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/filler.pdf)
+- [Lem_in](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/lem-in.pdf)
+- [Mod1 (Optional Project)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/mod1.pdf)
+- [Corewar](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/corewar.pdf)
+- [Corewar Championship (Optional Project)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/corewar-championship.pdf)
+- [ComputorV1](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/computorv1.pdf)
+- [Expert System](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/expertsystem.pdf)
+- [N-puzzle](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/npuzzle.pdf)
+- [Ft_linear_regression](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/ft_linear_regression.pdf)
+- [Rubik](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/rubik.pdf)
+- [KrpSim](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/krpsim.pdf)
+- [Gomoku](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/gomoku.pdf)
 
 ### Graphic branch
-- [FDF](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/03_Graphic/fdf.pdf)
-- [Fract'Ol](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/03_Graphic/fract_ol.pdf)
-- [Wolf3D](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/03_Graphic/wolf3d.pdf)
-- [RTv1](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/03_Graphic/rtv1.pdf)
-- [RT](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/03_Graphic/rt.pdf)
-- [Scop](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/03_Graphic/scop.pdf)
-- [42run](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/03_Graphic/42run.pdf)
-- [HumanGL](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/03_Graphic/humangl.pdf)
-- [Particle System](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/03_Graphic/ParticleSystem.pdf)
+- [FDF](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/03_Graphic/fdf.pdf)
+- [Fract'Ol](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/03_Graphic/fract_ol.pdf)
+- [Wolf3D](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/03_Graphic/wolf3d.pdf)
+- [RTv1](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/03_Graphic/rtv1.pdf)
+- [RT](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/03_Graphic/rt.pdf)
+- [Scop](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/03_Graphic/scop.pdf)
+- [42run](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/03_Graphic/42run.pdf)
+- [HumanGL](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/03_Graphic/humangl.pdf)
+- [Particle System](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/03_Graphic/ParticleSystem.pdf)
 
 ### Web branch
-- [Camagru](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/04_Web/camagru.pdf)
-- [Matcha](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/04_Web/matcha.pdf)
-- [Hypertube](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/04_Web/hypertube.pdf)
-- [Friends with Benefits](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/04_Web/friends_with_benefits.pdf)
-- [Red Tetris](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/04_Web/red_tetris.pdf)
-- [Darkly](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/04_Web/darkly.pdf)
+- [Camagru](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/04_Web/camagru.pdf)
+- [Matcha](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/04_Web/matcha.pdf)
+- [Hypertube](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/04_Web/hypertube.pdf)
+- [Friends with Benefits](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/04_Web/friends_with_benefits.pdf)
+- [Red Tetris](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/04_Web/red_tetris.pdf)
+- [Darkly](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/04_Web/darkly.pdf)
 
 ### OCaml branch
-- [H42N42](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/05_OCaml/subject.pdf)
-- [ft_turing](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/05_OCaml/ft_turing.pdf)
-- [ft_ality](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/05_OCaml/ft_ality.pdf)
+- [H42N42](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/05_OCaml/subject.pdf)
+- [ft_turing](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/05_OCaml/ft_turing.pdf)
+- [ft_ality](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/05_OCaml/ft_ality.pdf)
 
 ### Android / iOS branch
-- [Swifty Companion](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/06_Android-iOS/swifty-companion.pdf)
-- [ft_hangouts](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/06_Android-iOS/ft_hangouts.pdf)
-- [Swifty Proteins](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/06_Android-iOS/swifty-protein.pdf)
+- [Swifty Companion](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/06_Android-iOS/swifty-companion.pdf)
+- [ft_hangouts](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/06_Android-iOS/ft_hangouts.pdf)
+- [Swifty Proteins](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/06_Android-iOS/swifty-protein.pdf)
 
 ### C++ branch
-- [Abstract VM](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/07_CPP/abstract-vm.pdf)
-- [Nibbler](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/07_CPP/nibbler.pdf)
-- [Bomberman](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/07_CPP/bomberman.pdf)
+- [Abstract VM](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/07_CPP/abstract-vm.pdf)
+- [Nibbler](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/07_CPP/nibbler.pdf)
+- [Bomberman](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/07_CPP/bomberman.pdf)
 
 ### Unity branch
-- [XV](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/08_Unity/XV.pdf)
-- [In the Shadows](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/08_Unity/In_the_shadow.pdf)
+- [XV](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/08_Unity/XV.pdf)
+- [In the Shadows](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/08_Unity/In_the_shadow.pdf)
 
 ### Others
-- [cloud-1](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/09_Others/cloud-1.pdf)
-- [roger-skyline-1](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/09_Others/roger-skyline-1.pdf)
-- [roger-skyline-2](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/09_Others/roger-skyline-2.pdf)
-- [Docker](https://github.com/BenjaminSouchet/42_Subjects/00_Projects/09_Others/docker.pdf)
+- [cloud-1](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/09_Others/cloud-1.pdf)
+- [roger-skyline-1](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/09_Others/roger-skyline-1.pdf)
+- [roger-skyline-2](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/09_Others/roger-skyline-2.pdf)
+- [Docker](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/09_Others/docker.pdf)
 
 ## Piscines
 
