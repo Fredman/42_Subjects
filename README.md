@@ -57,6 +57,30 @@ If a link doesn't work all subjects are saved in folders of this repository.
 - [Red Tetris]()
 - [Darkly]()
 
+### OCaml branch
+- [H42N42]()
+- [ft_turing]()
+- [ft_ality]()
+
+### Android / iOS branch
+- [Swifty Companion]()
+- [ft_hangouts]()
+- [Swifty Proteins]()
+
+### C++ branch
+- [Abstract VM]()
+- [Nibbler]()
+- [Bomberman]()
+
+### Unity branch
+- [XV]()
+- [In the Shadows]()
+
+### Others
+- [cloud-1]()
+- [roger-skyline-1]()
+- [roger-skyline-2]()
+- [Docker]()
 
 ## Piscines
 
@@ -69,23 +93,22 @@ If a link doesn't work all subjects are saved in folders of this repository.
 - [Swift iOS]()
 - [Unity]()
 
-
 ## Rushes
 
-- AlCu
-- Arkanoid
-- Carnifex (LISP)
-- Cluedo (Prolog)
-- Domino
-- Factrace
-- Hotrace
-- Introduction to iOS
-- Introduction to Wordpress
-- LLDB
-- Mexican Standoff
-- Puissance 4
-- Rage Against The aPi
-- Rush admin sys et réseau #0
-- Rush admin sys et réseau #1
-- wong_kar_wai
-- YASL
+- [AlCu]()
+- [Arkanoid]()
+- [Carnifex (LISP)]()
+- [Cluedo (Prolog)]()
+- [Domino]()
+- [Factrace]()
+- [Hotrace]()
+- [Introduction to iOS]()
+- [[Introduction to Wordpress]()
+- [LLDB]()
+- [Mexican Standoff]()
+- [Puissance 4]()
+- [Rage Against The aPi]()
+- [Rush admin sys et réseau #0]()
+- [Rush admin sys et réseau #1]()
+- [wong_kar_wai]()
+- [YASL]()
