@@ -72,4 +72,20 @@ If a link doesn't work all subjects are saved in folders of this repository.
 
 ## Rushes
 
-- 
+- AlCu
+- Arkanoid
+- Carnifex (LISP)
+- Cluedo (Prolog)
+- Domino
+- Factrace
+- Hotrace
+- Introduction to iOS
+- Introduction to Wordpress
+- LLDB
+- Mexican Standoff
+- Puissance 4
+- Rage Against The aPi
+- Rush admin sys et réseau #0
+- Rush admin sys et réseau #1
+- wong_kar_wai
+- YASL
