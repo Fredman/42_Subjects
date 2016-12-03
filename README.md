@@ -111,11 +111,11 @@ If a link doesn't work all subjects are saved in folders of this repository.
 - [C](https://github.com/BenjaminSouchet/)
 - [C Bootcamp](https://github.com/BenjaminSouchet/)
 - [C++](https://github.com/BenjaminSouchet/)
-- [PHP](https://github.com/BenjaminSouchet/)
+- [PHP](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/PHP)
 - [Python-Django](https://github.com/BenjaminSouchet/)
-- [OCaml](https://github.com/BenjaminSouchet/)
-- [Swift iOS](https://github.com/BenjaminSouchet/)
-- [Unity](https://github.com/BenjaminSouchet/)
+- [OCaml](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/OCaml)
+- [Swift iOS](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/iOS_Swift)
+- [Unity](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/Unity)
 
 ## Rushes
 
