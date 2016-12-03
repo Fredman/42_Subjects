@@ -1,7 +1,5 @@
 # All subjects of 42 Paris
 
-If a link doesn't work all subjects are saved in folders of this repository.
-
 ## Projects
 
 ### Global
@@ -108,12 +106,12 @@ If a link doesn't work all subjects are saved in folders of this repository.
 
 ## Piscines
 
-- [C](https://github.com/BenjaminSouchet/)
-- [C Bootcamp](https://github.com/BenjaminSouchet/)
-- [C++](https://github.com/BenjaminSouchet/)
+- [C (Languages EN & FR)](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/C)
+- [C++](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/CPP)
 - [PHP](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/PHP)
-- [Python-Django](https://github.com/BenjaminSouchet/)
-- [OCaml](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/OCaml)
+- [Python-Django](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/Python-Django)
+- [Ocaml](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/OCaml)
+- [Ruby On Rails](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/Ruby_On_Rails)
 - [Swift iOS](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/iOS_Swift)
 - [Unity](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/Unity)
 
