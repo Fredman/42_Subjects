@@ -115,7 +115,7 @@
 - [Swift iOS](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/iOS_Swift)
 - [Unity](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/Unity)
 
-## Rushes (In Progress)
+## Rushes
 
 - AlCu (Not Available)
 - [Alum1](https://github.com/BenjaminSouchet/42_Subjects/blob/master/02_Rushes/alum1.pdf)
