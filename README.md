@@ -131,7 +131,12 @@
 - [Mexican Standoff](https://github.com/BenjaminSouchet/42_Subjects/blob/master/02_Rushes/mexican_standoff.pdf)
 - [Puissance 4](https://github.com/BenjaminSouchet/42_Subjects/blob/master/02_Rushes/puissance4.pdf)
 - Rage Against The aPi (Not Available)
-- Rush admin sys et réseau 0(Not Available)
-- Rush admin sys et réseau 1(Not Available)
+- Rush admin sys et réseau 0 (Not Available)
+- Rush admin sys et réseau 1 (Not Available)
 - [wong_kar_wai (2048)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/02_Rushes/wong_kar_wai_2048.pdf)
 - [YASL](https://github.com/BenjaminSouchet/42_Subjects/blob/master/02_Rushes/yasl.pdf)
+
+## Exam C Beginner
+
+- [See all subjects (Langs : EN / FR / RO)](https://github.com/BenjaminSouchet/42_Subjects/tree/master/03_Exam_C)
+
