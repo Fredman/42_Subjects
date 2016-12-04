@@ -107,6 +107,7 @@
 - [roger-skyline-1](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/09_Others/roger-skyline-1.pdf)
 - [roger-skyline-2](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/09_Others/roger-skyline-2.pdf)
 - [Docker](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/09_Others/docker.pdf)
+- [Projet Libre](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/09_Others/ProjetLibre.pdf)
 
 ## Piscines
 
@@ -147,4 +148,4 @@
 ## Others
 
 - [Peer-Evaluation (Langs : EN / FR)](https://github.com/BenjaminSouchet/42_Subjects/tree/master/05_Others/Peer-Evaluation)
-
+- [Vogsphere Manual (Langs : EN / FR)](https://github.com/BenjaminSouchet/42_Subjects/tree/master/05_Others/Vogsphere)
