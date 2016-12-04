@@ -22,9 +22,9 @@
 - [42sh (T3)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/01_Unix/42sh.pdf)
 - [Malloc (T2)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/01_Unix/malloc.pdf)
 - [ft_script (T1)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/01_Unix/ft_script.pdf)
-- [Philosophers (T1)]() //
+- [Philosophers (T1)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/01_Unix/philosophers.pdf)
 - [Nm-otool (T2)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/01_Unix/nm-otool.pdf)
-- [Dr Quine]() //
+- [Dr Quine (T2)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/01_Unix/dr_quine.pdf)
 - [LibftASM (T2)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/01_Unix/asm_lib.pdf)
 - [Root-me | App-Systeme (T4)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/01_Unix/root_me_app_systeme.pdf)
 - [Root-me | Cracking (T4)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/01_Unix/root_me_cracking.pdf)
