@@ -2,6 +2,10 @@
 
 ## Projects
 
+### Norme 42
+- [Norme 2.0.0](https://github.com/BenjaminSouchet/42_Subjects/blob/master/04_Norme/norme_2_0_0.pdf)
+- [Norme 2.0.1](https://github.com/BenjaminSouchet/42_Subjects/blob/master/04_Norme/norme_2_0_1.pdf)
+
 ### Global
 - [42 Commandements](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/00_Global/42_commandements.pdf)
 - [Piscine Reloaded](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/00_Global/piscine_reloaded.pdf)
@@ -139,4 +143,8 @@
 ## Exam C Beginner
 
 - [See all subjects (Langs : EN / FR / RO)](https://github.com/BenjaminSouchet/42_Subjects/tree/master/03_Exam_C)
+
+## Others
+
+- [Peer-Evaluation (Langs : EN / FR)](https://github.com/BenjaminSouchet/42_Subjects/tree/master/05_Others/Peer-Evaluation)
 
