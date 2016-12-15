@@ -1,5 +1,8 @@
 # All subjects of 42 Paris
 
+All these subjects are the exclusive property of 42 School.<br />
+Any reproduction, use outside the school context of 42 or without authorization is prohibited and may be treated as copyright infringement.
+
 ## Norme 42
 - [Norme 2.0.0](https://github.com/BenjaminSouchet/42_Subjects/blob/master/04_Norme/norme_2_0_0.pdf)
 - [Norme 2.0.1](https://github.com/BenjaminSouchet/42_Subjects/blob/master/04_Norme/norme_2_0_1.pdf)
